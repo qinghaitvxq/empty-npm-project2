@@ -1,3 +1,13 @@
+const test = 'hello world';
+const foo = bar;
+console
+    .log(
+    'hello' +
+        " my" +
+"friend"
+    )
+;
+
 // import React, { Component } from 'react';
 // console
 //     .log(
